@@ -47,21 +47,6 @@ How does energy usage impact cost?
 Drill-down and drill-through analysis
 Trend and variance analysis
 KPI monitoring with dynamic visuals
-
-## 📸 Preview
-(Add your dashboard screenshots or video preview here)
-
-## 📁 Project Structure
-manufacturing-dashboard/
-│
-├── README.md
-├── manufacturing_dashboard.pbix
-├── dataset/
-│   └── manufacturing_data.xlsx
-└── images/
-    ├── overview.png
-    ├── production.png
-    ├── cost_energy.png
     
 🧠 Author
 Evania Putri | Data Analyst | Manufacturing & Operations Analytics
