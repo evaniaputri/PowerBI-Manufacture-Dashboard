@@ -33,6 +33,7 @@ Efficiency performance tracking across multiple factors
 ## ⚙️ Tools & Technologies
 Power BI (Data Visualization & Dashboard)
 DAX (Data Analysis Expressions)
+Power Query
 Excel / CSV (Data Source)
 
 ## 📈 Key Insights
