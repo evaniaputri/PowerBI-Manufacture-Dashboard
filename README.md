@@ -26,7 +26,7 @@ Reject rate, Defect analysis, Complaint trends
 6. SHE
 Incident tracking, Safety metrics
 7. Maintenance
-Breakdown vs planned maintenance, Machine performance (MTBF & MTTR)
+Breakdown vs planned maintenance, Machine performance
 8. EPI
 Efficiency performance tracking across multiple factors
 
